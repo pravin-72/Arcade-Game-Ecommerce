@@ -1,7 +1,5 @@
 # Arcade Game Ecommerce - Basic UX Design Project
 
-![Arcade Game Ecommerce Preview](arcade-game-ecommerce-preview.png) *(Add a screenshot or image of your design here)*
-
 ## Description
 
 Welcome to my Arcade Game Ecommerce UX Design project! This is my first attempt at UX Design, and I am excited to present a basic design concept for an Arcade Game Ecommerce platform. Throughout this project, I utilized Figma and Adobe XD as my design tools, drawing from the experience gained during the completion of the Google UX Design certificate.
